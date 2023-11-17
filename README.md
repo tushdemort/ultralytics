@@ -1,1 +1,1 @@
-make sure to have 2 cameras and run detect.py
+run detect.py
